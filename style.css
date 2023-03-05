@@ -10,21 +10,26 @@ h1{
     padding: 10px;
 }
 img{
-    width: 250px;
+    width: 340px;
 }
 
 #style{
-    width: 300px;
+    width: 350px;
 }
 p{
    text-align: justify;
    width: 350px;
    margin: 0 auto;
    padding: 20px;
+   
 }
 span{
     color: red;
 }
 div>p>span{
     color:rgb(255, 0, 111);
+}
+#valor{
+    color:darkcyan;
+    font: 300;
 }
