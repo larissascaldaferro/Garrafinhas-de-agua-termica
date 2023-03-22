@@ -10,18 +10,18 @@ h1{
     padding: 10px;
 }
 img{
-    width: 340px;
+    width: 380px;
 }
 
 #style{
-    width: 350px;
+    width: 380px;
 }
 p{
    text-align: justify;
-   width: 350px;
+   width: 380px;
    margin: 0 auto;
-   padding: 20px;
-   line-height: 1.5em;
+   padding: 10px;
+   line-height: 1.3em;
    
 }
 span{
