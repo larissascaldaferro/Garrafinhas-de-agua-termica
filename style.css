@@ -34,3 +34,9 @@ div>p>span{
     color:darkcyan;
     font: 300;
 }
+#custo{
+    font-size: 1.3em;
+}
+#fim{
+    margin-bottom: 30px;
+}
